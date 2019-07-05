@@ -1,0 +1,1003 @@
+﻿[TestServer][2019/07/01 14:25:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 14:25:02 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 14:25:02 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 15:23:53 CST][INFO]: [Req Parsing]: The Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561965833405&username=admin&password=public
+[TestServer][2019/07/01 15:23:53 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 15:23:53 CST][INFO]: [Req Parsing]: The Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561965833405&username=admin
+[TestServer][2019/07/01 15:23:53 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 16:11:55 CST][INFO]: [Req Parsing]: The Request Body is : {
+    "action":"client_connected",
+    "obj": {    
+    	"client_id":"C_1492410235117",
+    	"username": "admin",
+    	"password": "public",
+    	"ip": "192.168.80.94",
+    	"topic": "test"
+    }
+}
+[TestServer][2019/07/01 16:12:01 CST][INFO]: [Req Parsing]: The Request Body is : {
+    "action":"client_connected",
+    "obj": {    
+    	"client_id":"C_1492410235117",
+    	"username": "admin",
+    	"password": "public",
+    	"ip": "192.168.80.94",
+    	"topic": "test"
+    }
+}
+[TestServer][2019/07/01 16:14:09 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 16:14:09 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 16:14:09 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 16:16:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561968995431&username=admin&password=public
+[TestServer][2019/07/01 16:16:35 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 16:16:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561968995431&username=admin
+[TestServer][2019/07/01 16:16:35 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 17:05:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561968995431&username=admin&password=public
+[TestServer][2019/07/01 17:05:21 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 17:05:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561968995431&username=admin
+[TestServer][2019/07/01 17:05:21 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 17:32:39 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:32:39 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:32:39 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:32:56 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561973576671&username=admin&password=public
+[TestServer][2019/07/01 17:32:56 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 17:32:56 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1561973576671&username=admin
+[TestServer][2019/07/01 17:32:56 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/01 17:35:31 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:35:31 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:35:31 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:45:06 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:45:06 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:45:06 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:45:30 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:45:30 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:45:30 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:46:04 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:46:04 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:46:04 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:48:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:48:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:48:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:49:04 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:49:04 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:49:04 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:52:26 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:52:26 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:52:26 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:52:45 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:52:45 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:52:45 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 17:53:00 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 17:53:00 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 17:53:00 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:20:14 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:20:14 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:20:14 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:21:35 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:21:35 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:21:35 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:30:39 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:30:39 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:30:39 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:35:42 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:35:42 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:35:42 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:36:18 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:36:18 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:36:18 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:36:47 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:37:18 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:38:13 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:39:28 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:39:28 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:39:28 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:39:52 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:39:52 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:39:52 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:40:57 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:40:57 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:40:57 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:42:09 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:42:09 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:42:09 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:48:42 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:48:42 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:48:42 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:49:07 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:49:07 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:49:07 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:49:14 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:49:14 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:49:14 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:49:57 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:49:57 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:49:57 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:50:40 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:50:40 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:50:40 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:50:58 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:50:58 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:50:58 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:51:52 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:51:52 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:51:52 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:52:21 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:52:21 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:52:21 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:52:36 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:52:36 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:52:36 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:54:36 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:54:36 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:54:36 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:55:39 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:55:39 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:55:39 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:56:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:56:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:56:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:56:53 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:56:53 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:56:53 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:57:07 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:57:07 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:57:07 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:57:29 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:57:29 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:57:29 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 18:58:27 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 18:58:27 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 18:58:27 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:02:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:02:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:02:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:04:17 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:04:17 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:04:17 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:04:50 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:04:50 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:04:50 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:05:12 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:05:12 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:05:12 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:08:04 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:08:04 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:08:04 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:09:30 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:09:30 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:09:30 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:11:18 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:11:18 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:11:18 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:13:21 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:13:21 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:13:21 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:21:08 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:21:08 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:21:08 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:21:34 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:21:34 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:21:34 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/01 19:22:33 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/01 19:22:33 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/01 19:22:33 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 09:38:05 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 09:38:05 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 09:38:05 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:28:41 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:28:41 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:28:41 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:29:12 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:29:12 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:29:12 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:31:36 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:31:36 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:31:36 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:34:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:34:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:34:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:34:19 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:34:19 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:34:19 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:49:24 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:49:24 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:49:24 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:50:02 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:50:02 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:50:02 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:54:17 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:54:17 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:54:17 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 10:59:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 10:59:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 10:59:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:01:07 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:01:07 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:01:07 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:02:34 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:02:34 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:02:34 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:02:53 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:02:53 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:02:53 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:03:54 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:03:54 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:03:54 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:04:31 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:04:31 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:04:31 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:07:53 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:07:53 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:07:53 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:11:58 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:11:58 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:11:58 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:16:06 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:16:06 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:16:06 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:20:45 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:21:38 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:22:48 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:22:48 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:22:48 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 11:27:11 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 11:27:11 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 11:27:11 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 13:51:45 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 13:51:45 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 13:51:45 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 13:52:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046733392&username=admin&password=public
+[TestServer][2019/07/02 13:52:14 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:52:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046733392&username=admin
+[TestServer][2019/07/02 13:52:14 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:53:24 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 13:53:24 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 13:53:24 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 13:53:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046813357&username=admin&password=public
+[TestServer][2019/07/02 13:53:33 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:53:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046813357&username=admin
+[TestServer][2019/07/02 13:53:33 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:53:47 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 13:53:47 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 13:53:47 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 13:53:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046833556&username=admin&password=public
+[TestServer][2019/07/02 13:53:53 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:53:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046833556&username=admin
+[TestServer][2019/07/02 13:53:53 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : invalid character 'c' looking for beginning of value
+[TestServer][2019/07/02 13:55:50 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 13:55:50 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 13:55:50 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 13:56:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046972728&username=admin&password=public
+[TestServer][2019/07/02 13:56:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562046972728&username=admin
+[TestServer][2019/07/02 13:56:59 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 13:56:59 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 13:56:59 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:12:57 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:12:57 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:12:57 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:14:38 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:14:38 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:14:38 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:20:35 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:20:35 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:20:35 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:20:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562048441952&username=admin&password=public
+[TestServer][2019/07/02 14:20:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562048441952&username=admin
+[TestServer][2019/07/02 14:21:11 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:21:11 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:21:11 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:21:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562048473395&username=admin&password=public
+[TestServer][2019/07/02 14:21:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562048473395&username=admin
+[TestServer][2019/07/02 14:29:43 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:29:43 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:29:43 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:30:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:15 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:15 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:15 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:15 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:17 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:17 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:17 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:17 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:18 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:18 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:18 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:25 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:25 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:28 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:39 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:39 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:39 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:39 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:40 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:40 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:40 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:40 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:41 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:41 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:41 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:41 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:42 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:44 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:44 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:44 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:44 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:54 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:54 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:54 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:30:54 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:02 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:07 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:07 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:07 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:07 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:18 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:31:18 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:31:18 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:31:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:26 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:27 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:28 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:28 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:28 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:28 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:29 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:30 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:31 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:32 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:33 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:34 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:37 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:31:38 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:43 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:33:44 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:33:44 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:33:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:45 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:46 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:47 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:49 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049008320&username=admin&password=public
+[TestServer][2019/07/02 14:33:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:51 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:33:53 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:03 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:49 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:34:49 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:34:49 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:34:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin&password=public
+[TestServer][2019/07/02 14:34:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562049231720&username=admin
+[TestServer][2019/07/02 14:36:03 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:36:03 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:36:03 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:52:33 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 14:52:33 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 14:52:33 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 14:53:01 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562050381329&username=admin&password=public
+[TestServer][2019/07/02 14:53:01 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562050381329&username=admin
+[TestServer][2019/07/02 15:25:26 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 15:25:26 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 15:25:26 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 15:27:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052440786&username=admin&password=public
+[TestServer][2019/07/02 15:27:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052440786&username=admin
+[TestServer][2019/07/02 15:28:58 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 15:28:58 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 15:28:58 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 15:29:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:05 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:06 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:07 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:08 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:09 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:10 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:14 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:15 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:17 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:18 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:19 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:20 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:21 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:22 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:23 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:35 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 15:29:35 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 15:29:35 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 15:29:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin&password=public
+[TestServer][2019/07/02 15:29:35 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562052544003&username=admin
+[TestServer][2019/07/02 16:01:53 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/02 16:01:53 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/02 16:01:53 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/02 16:02:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613&username=admin&password=public
+[TestServer][2019/07/02 16:02:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613&username=admin
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613&username=admin&password=public
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613&username=admin
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin"}
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin"}
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin"}
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin"}
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562062571,"conn_ack":0}
+[TestServer][2019/07/02 18:16:11 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562062571,"conn_ack":0}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562062571,"conn_ack":0}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562062571,"conn_ack":0}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/02 18:16:12 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","username":"admin","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","reason":"closed"}
+[TestServer][2019/07/02 18:54:48 CST][INFO]: [Req Parsing]: The Emq Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562054572613","reason":"closed"}
+[TestServer][2019/07/03 11:01:41 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 11:01:41 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 11:01:41 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:08:38 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 17:08:38 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 17:08:38 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:09:00 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970&username=admin&password=public
+[TestServer][2019/07/03 17:09:00 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970&username=admin
+[TestServer][2019/07/03 17:09:00 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin"}
+[TestServer][2019/07/03 17:09:00 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:09:00 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562144939,"conn_ack":0}
+[TestServer][2019/07/03 17:09:00 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:09:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/03 17:09:10 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:09:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/03 17:09:10 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:34:45 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 17:34:45 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 17:34:45 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:34:55 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 17:34:55 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 17:34:55 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:36:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 17:36:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 17:36:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:42:09 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/03 17:42:09 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:42:09 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","topic":"test"}
+[TestServer][2019/07/03 17:42:09 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer map[string]interface {})
+[TestServer][2019/07/03 17:47:57 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/03 17:47:57 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/03 17:47:57 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/03 17:48:00 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/03 17:48:00 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/03 18:55:32 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","username":"admin","reason":"closed"}
+[TestServer][2019/07/03 18:55:32 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562144939970","reason":"closed"}
+[TestServer][2019/07/04 10:50:05 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 10:50:05 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 10:50:05 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 10:51:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239&username=admin&password=public
+[TestServer][2019/07/04 10:51:50 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239&username=admin
+[TestServer][2019/07/04 10:51:50 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239","username":"admin"}
+[TestServer][2019/07/04 10:51:50 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562208709,"conn_ack":0}
+[TestServer][2019/07/04 10:52:11 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239","username":"admin","reason":"closed"}
+[TestServer][2019/07/04 10:52:11 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208710239","reason":"closed"}
+[TestServer][2019/07/04 10:52:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106&username=admin&password=public
+[TestServer][2019/07/04 10:52:16 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106&username=admin
+[TestServer][2019/07/04 10:52:16 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin"}
+[TestServer][2019/07/04 10:52:16 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562208734,"conn_ack":0}
+[TestServer][2019/07/04 10:52:18 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:52:18 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:54:16 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 10:54:16 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 10:54:18 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:54:18 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:54:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 10:54:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 10:54:23 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:54:23 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 10:54:28 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"message_publish","from_client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","from_username":"admin","topic":"test","qos":0,"retain":false,"payload":"{\"virtual machine\": \"emqtt test\"}","ts":1562208866}
+[TestServer][2019/07/04 10:54:28 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"message_deliver","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","from_client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","from_username":"admin","topic":"test","qos":0,"retain":false,"payload":"{\"virtual machine\": \"emqtt test\"}","ts":1562208866}
+[TestServer][2019/07/04 10:54:51 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 10:54:51 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 10:54:51 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 10:57:40 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 10:57:40 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 10:57:40 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 10:59:27 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 10:59:27 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:00:15 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:00:15 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:00:15 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:00:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:00:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:00:44 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:00:44 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:00:44 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:00:48 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:00:48 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:00:50 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:00:50 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:01:25 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:01:25 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:01:25 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:01:26 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:01:26 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:26 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:01:26 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:29 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:01:29 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:29 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:01:29 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:33 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:01:33 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:33 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:01:33 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:34 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:01:34 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:01:34 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:01:34 CST][EROR]: [Req Parsing]: Convert Body To Json Failed : json: Unmarshal(non-pointer action.EmqWebHookModel)
+[TestServer][2019/07/04 11:02:10 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:02:10 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:02:10 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:03:02 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:03:02 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:03:02 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:03:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:03:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:04:09 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:04:09 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:04:09 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:04:13 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:04:13 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:04:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:04:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:05:04 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:05:04 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:05:04 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:05:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:05:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 11:14:50 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:14:50 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:14:50 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 11:14:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 11:14:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 11:17:13 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 11:17:13 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 11:17:13 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 13:39:24 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106&username=admin&password=public
+[TestServer][2019/07/04 13:39:25 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106&username=admin
+[TestServer][2019/07/04 13:39:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","reason":"discarded"}
+[TestServer][2019/07/04 13:39:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin"}
+[TestServer][2019/07/04 13:39:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562218764,"conn_ack":0}
+[TestServer][2019/07/04 13:39:25 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 15:11:51 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:11:51 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:11:51 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:11:56 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:11:56 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:12:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 15:12:21 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 15:12:22 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:12:22 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:13:48 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:13:48 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:13:48 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:14:01 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:14:01 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:14:01 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:14:39 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 15:14:39 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 15:15:06 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:15:06 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:15:06 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:16:17 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:16:17 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:16:17 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:16:20 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:16:20 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 15:24:23 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 15:24:23 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 15:24:23 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 15:24:28 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 15:24:28 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 17:51:10 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 17:51:10 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 17:51:10 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 17:51:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 17:51:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/04 17:55:19 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/04 17:55:19 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/04 17:55:19 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/04 17:57:51 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/04 17:57:51 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","topic":"test"}
+[TestServer][2019/07/04 18:01:30 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","username":"admin","reason":"closed"}
+[TestServer][2019/07/04 18:01:30 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562208736106","reason":"closed"}
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260&username=admin&password=public
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260&username=admin
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin"}
+[TestServer][2019/07/05 09:26:13 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562289970,"conn_ack":0}
+[TestServer][2019/07/05 09:56:27 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 09:56:27 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 09:56:27 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 09:58:50 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 09:58:50 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 09:58:50 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:05 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:06 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 10:03:23 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 10:03:23 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 10:03:23 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:10:45 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:10:45 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:10:45 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:11:22 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:11:22 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:11:22 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:11:31 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 11:11:31 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test"}
+[TestServer][2019/07/05 11:13:32 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:13:32 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:13:32 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:19:52 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 11:19:52 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 11:19:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 11:19:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test"}
+[TestServer][2019/07/05 11:19:59 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 11:19:59 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 11:20:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 11:20:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","topic":"test"}
+[TestServer][2019/07/05 11:20:19 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:20:19 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:20:19 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:20:29 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 11:20:29 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562289954260","reason":"closed"}
+[TestServer][2019/07/05 11:21:15 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:21:15 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:21:15 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:22:15 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:22:15 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:22:15 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 11:49:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891&username=admin&password=public
+[TestServer][2019/07/05 11:49:04 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891&username=admin
+[TestServer][2019/07/05 11:49:04 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin"}
+[TestServer][2019/07/05 11:49:04 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562298543,"conn_ack":0}
+[TestServer][2019/07/05 11:59:57 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 11:59:57 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 11:59:57 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 12:00:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 12:00:10 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 12:00:12 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 12:00:12 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test"}
+[TestServer][2019/07/05 13:38:23 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","reason":"keepalive_timeout"}
+[TestServer][2019/07/05 13:38:23 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","reason":"keepalive_timeout"}
+[TestServer][2019/07/05 13:38:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891&username=admin&password=public
+[TestServer][2019/07/05 13:38:36 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891&username=admin
+[TestServer][2019/07/05 13:38:36 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin"}
+[TestServer][2019/07/05 13:38:36 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562305116,"conn_ack":0}
+[TestServer][2019/07/05 13:52:18 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 13:52:18 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 13:52:18 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:05:33 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:05:33 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:06:03 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:06:03 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:06:03 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:06:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 14:06:14 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test"}
+[TestServer][2019/07/05 14:06:17 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:06:17 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:27:16 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:27:16 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:27:16 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:27:44 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 14:27:44 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test"}
+[TestServer][2019/07/05 14:29:17 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:29:17 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:29:17 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:29:43 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:29:43 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:29:46 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 14:29:46 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","topic":"test"}
+[TestServer][2019/07/05 14:29:47 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:29:47 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:29:47 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:29:47 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:29:47 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562298543891","reason":"closed"}
+[TestServer][2019/07/05 14:30:42 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:30:42 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:30:42 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571&username=admin&password=public
+[TestServer][2019/07/05 14:30:52 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571&username=admin
+[TestServer][2019/07/05 14:30:52 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin"}
+[TestServer][2019/07/05 14:30:52 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562308253,"conn_ack":0}
+[TestServer][2019/07/05 14:30:54 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:30:54 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:30:54 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:30:54 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:30:54 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308252571","reason":"closed"}
+[TestServer][2019/07/05 14:31:46 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:31:46 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:31:46 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:31:56 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643&username=admin&password=public
+[TestServer][2019/07/05 14:31:56 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643&username=admin
+[TestServer][2019/07/05 14:31:56 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643","username":"admin"}
+[TestServer][2019/07/05 14:31:56 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562308317,"conn_ack":0}
+[TestServer][2019/07/05 14:31:58 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_disconnected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643","username":"admin","reason":"closed"}
+[TestServer][2019/07/05 14:31:58 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_terminated","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562308316643","reason":"closed"}
+[TestServer][2019/07/05 14:44:13 CST][INFO]: [Init Server]: 日志框架初始化完成
+[TestServer][2019/07/05 14:44:13 CST][INFO]: [Init Server]: 运行环境初始化完成[处理器核心数:4]
+[TestServer][2019/07/05 14:44:13 CST][INFO]: [Init Server]: http网络框架初始化完成[192.168.1.94:8081][production]
+[TestServer][2019/07/05 14:44:55 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464&username=admin&password=public
+[TestServer][2019/07/05 14:44:55 CST][INFO]: [Req Parsing]: The Emq Request Body is : clientid=c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464&username=admin
+[TestServer][2019/07/05 14:44:55 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_created","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","username":"admin"}
+[TestServer][2019/07/05 14:44:55 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_connected","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","username":"admin","keepalive":10,"ipaddress":"192.168.80.1","proto_ver":4,"connected_at":1562309096,"conn_ack":0}
+[TestServer][2019/07/05 14:44:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_subscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","username":"admin","topic":"test","opts":{"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:44:57 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_subscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","topic":"test","opts":{"first":true,"nl":0,"qos":0,"rap":0,"rc":0,"rh":0}}
+[TestServer][2019/07/05 14:44:59 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"client_unsubscribe","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","username":"admin","topic":"test","opts":{}}
+[TestServer][2019/07/05 14:44:59 CST][INFO]: [Req Parsing]: The Emq Web Hook Request Body is : {"action":"session_unsubscribed","client_id":"c5c315ec-ecba-4d5a-b1ae-7adaf6e1565b1562309095464","topic":"test"}
